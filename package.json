@@ -1,3 +1,11 @@
 {
+<<<<<<< HEAD
     "type":"module"
 }
+=======
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
+>>>>>>> df3cc28b05bc4d38b35237bce60ef08fa446a094
